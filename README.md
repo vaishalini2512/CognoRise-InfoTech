@@ -11,7 +11,6 @@ Dataset: Utilized the well-known Iris dataset, a benchmark in the field.
 Machine Learning Model: Implemented a classification model using popular algorithms such as Decision Trees or Support Vector Machines.
 Evaluation: Assessed model performance using metrics like accuracy, precision, and recall.
 Getting Started
-Clone the repository: git clone https://github.com/your-username/iris-flower-classification.git
 Install dependencies: pip install -r requirements.txt
 Explore the Jupyter notebook or Python script to understand the workflow.
 Usage
